@@ -1,0 +1,24 @@
+{
+  "total_files_processed": 2,
+  "total_issues_found": 0,
+  "files_with_issues": 0,
+  "overall_accuracy": 1.0,
+  "detailed_results": [
+    {
+      "file": "output_1A\\66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.json",
+      "total_texts": 14,
+      "valid_texts": 14,
+      "garbled_texts": 0,
+      "issues": [],
+      "accuracy": 1.0
+    },
+    {
+      "file": "output_1A\\DE PROJECT.json",
+      "total_texts": 58,
+      "valid_texts": 58,
+      "garbled_texts": 0,
+      "issues": [],
+      "accuracy": 1.0
+    }
+  ]
+}

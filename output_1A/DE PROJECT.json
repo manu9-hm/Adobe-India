@@ -1,0 +1,407 @@
+{
+  "title": {
+    "en": "DE PROJECT"
+  },
+  "outline": [
+    {
+      "level": "H1",
+      "text": {
+        "en": "DE PROJECT"
+      },
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": {
+        "en": "Function"
+      },
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": {
+        "en": "Steps to Design a Digital Watch"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "results such as hours minutes and seconds using 7 segment displays"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "This 1 Hz clock will increment the time"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "When it reaches 59 it resets to 0 and triggers the minute counter"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "resets to 0 When it reaches 59 it resets to 0 and triggers the hours counter"
+      },
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": {
+        "en": "F 1 Timekeeping"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "provided by the Xi linx board It will be divided down to 1 Hz for timekeeping purposes"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "It s typically triggered by a button to restart the watch or initialize the time"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "3 Set Time Buttons Additional inputs like buttons to increment hours or minutes manually"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "1 Hours Output the current hour 0 23 for 24 hour format or 1 12 for a 12 hour format"
+      },
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "3 Seconds Output the current second 0 59"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "watch"
+      },
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": {
+        "en": "F 2 Stopwatch"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "1 Clock c lk A high frequency clock signal used for timing purposes"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "A signal to reset the stopwatch to zero"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "3 Start Stop A signal to start or stop the stopwatch"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Optional input to capture the current time without stopping the stopwatch"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "6 Enable A signal to allow or disable counting when high"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "decimal format typically divided into seconds minutes and hours"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "button is pressed"
+      },
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": {
+        "en": "F 3 Alarm Functionality"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "match"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "The alarm function needs the following components"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Alarm Time Setting Inputs to set the desired alarm time hours minutes seconds"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Current Time The time the digital watch keeps provided by the timekeeping module"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Alarm Enable Away to turn the alarm ON or OFF"
+      },
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Alarm Set Inputs"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "alarm time"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "alarm hours An input to set the alarm hours 5 bit input for 24 hour format 0 23"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "alarm minutes An input to set the alarm minutes 6 bit input for 0 59"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Current Time Inputs"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "current hours The current hours value from the timekeeping module"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "current minutes The current minutes value from the timekeeping module"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "is triggered or not"
+      },
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": {
+        "en": "F 4 TimeZone Feature"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "i"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "ii"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "UTC 1"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "iii"
+      },
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "This adjusted time will be displayed on the"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Binary Input for TimeZone"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "1 User Selecting TimeZone through binary inputs"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "UTC 5 means clock add 5 hours in the current time"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "TimeZone Adjusting Logic"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "The internal clock generates the current time let s assume it s in UTC"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "of hours"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "value in the clock's register"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Binary input"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "UTC 5"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Output to 7 Segment Display"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "The adjusted hours and minutes are converted from binary to"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "e g"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "74 LS 47"
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": ""
+      },
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": {
+        "en": "Each digit of the hours and minutes is displayed on the corresponding"
+      },
+      "page": 4
+    }
+  ],
+  "tables": []
+}

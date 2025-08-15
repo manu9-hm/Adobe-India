@@ -1,0 +1,1067 @@
+{
+  "metadata": {
+    "input_documents": [
+      "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "DE PROJECT.pdf",
+      "gra bi she.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Review GNNs for drug discovery",
+    "processing_timestamp": "2025-07-26T17:47:39",
+    "note": "Simplified version without sentence transformers"
+  },
+  "extracted_sections": [
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "match"
+      },
+      "importance_rank": 1
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "Submission Template"
+      },
+      "importance_rank": 2
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "Click Here To Download"
+      },
+      "importance_rank": 3
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Awards and Recognition:"
+      },
+      "importance_rank": 4
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "3rd Team Prize – 1 Lakh INR only."
+      },
+      "importance_rank": 5
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Providence Global Centre."
+      },
+      "importance_rank": 6
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Save Important Dates and Timeline:"
+      },
+      "importance_rank": 7
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Registration Deadline: Sunday, September 29, 2024"
+      },
+      "importance_rank": 8
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Ideathon Kick-Off: Thursday, September 12, 2024"
+      },
+      "importance_rank": 9
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Executive Submission Deadline Phase-1: Sunday, October 6, 2024"
+      },
+      "importance_rank": 10
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Executive Submission Deadline Phase-2: Sunday, November 3, 2024"
+      },
+      "importance_rank": 11
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Final Presentations and Judging: Thursday, November 21, 2024"
+      },
+      "importance_rank": 12
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": ""
+      },
+      "importance_rank": 13
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "END OF CASE STUDY -"
+      },
+      "importance_rank": 14
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "DE PROJECT"
+      },
+      "importance_rank": 15
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "Function"
+      },
+      "importance_rank": 16
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "Steps to Design a Digital Watch"
+      },
+      "importance_rank": 17
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "results such as hours minutes and seconds using 7 segment displays"
+      },
+      "importance_rank": 18
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "This 1 Hz clock will increment the time"
+      },
+      "importance_rank": 19
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "When it reaches 59 it resets to 0 and triggers the minute counter"
+      },
+      "importance_rank": 20
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "resets to 0 When it reaches 59 it resets to 0 and triggers the hours counter"
+      },
+      "importance_rank": 21
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "F 1 Timekeeping"
+      },
+      "importance_rank": 22
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "provided by the Xi linx board It will be divided down to 1 Hz for timekeeping purposes"
+      },
+      "importance_rank": 23
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "It s typically triggered by a button to restart the watch or initialize the time"
+      },
+      "importance_rank": 24
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "3 Set Time Buttons Additional inputs like buttons to increment hours or minutes manually"
+      },
+      "importance_rank": 25
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "section_title": {
+        "en": "1 Hours Output the current hour 0 23 for 24 hour format or 1 12 for a 12 hour format"
+      },
+      "importance_rank": 26
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "3 Seconds Output the current second 0 59"
+      },
+      "importance_rank": 27
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "watch"
+      },
+      "importance_rank": 28
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "F 2 Stopwatch"
+      },
+      "importance_rank": 29
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "1 Clock c lk A high frequency clock signal used for timing purposes"
+      },
+      "importance_rank": 30
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "A signal to reset the stopwatch to zero"
+      },
+      "importance_rank": 31
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "3 Start Stop A signal to start or stop the stopwatch"
+      },
+      "importance_rank": 32
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "Optional input to capture the current time without stopping the stopwatch"
+      },
+      "importance_rank": 33
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "6 Enable A signal to allow or disable counting when high"
+      },
+      "importance_rank": 34
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "decimal format typically divided into seconds minutes and hours"
+      },
+      "importance_rank": 35
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "button is pressed"
+      },
+      "importance_rank": 36
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "F 3 Alarm Functionality"
+      },
+      "importance_rank": 37
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "The alarm function needs the following components"
+      },
+      "importance_rank": 38
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "Alarm Time Setting Inputs to set the desired alarm time hours minutes seconds"
+      },
+      "importance_rank": 39
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "Current Time The time the digital watch keeps provided by the timekeeping module"
+      },
+      "importance_rank": 40
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "section_title": {
+        "en": "Alarm Enable Away to turn the alarm ON or OFF"
+      },
+      "importance_rank": 41
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Alarm Set Inputs"
+      },
+      "importance_rank": 42
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "alarm time"
+      },
+      "importance_rank": 43
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "alarm hours An input to set the alarm hours 5 bit input for 24 hour format 0 23"
+      },
+      "importance_rank": 44
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "alarm minutes An input to set the alarm minutes 6 bit input for 0 59"
+      },
+      "importance_rank": 45
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "Current Time Inputs"
+      },
+      "importance_rank": 46
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "current hours The current hours value from the timekeeping module"
+      },
+      "importance_rank": 47
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "current minutes The current minutes value from the timekeeping module"
+      },
+      "importance_rank": 48
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "is triggered or not"
+      },
+      "importance_rank": 49
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "F 4 TimeZone Feature"
+      },
+      "importance_rank": 50
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "i"
+      },
+      "importance_rank": 51
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "ii"
+      },
+      "importance_rank": 52
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "UTC 1"
+      },
+      "importance_rank": 53
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "section_title": {
+        "en": "iii"
+      },
+      "importance_rank": 54
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "This adjusted time will be displayed on the"
+      },
+      "importance_rank": 55
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "Binary Input for TimeZone"
+      },
+      "importance_rank": 56
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "1 User Selecting TimeZone through binary inputs"
+      },
+      "importance_rank": 57
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "UTC 5 means clock add 5 hours in the current time"
+      },
+      "importance_rank": 58
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "TimeZone Adjusting Logic"
+      },
+      "importance_rank": 59
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "The internal clock generates the current time let s assume it s in UTC"
+      },
+      "importance_rank": 60
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "of hours"
+      },
+      "importance_rank": 61
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "value in the clock's register"
+      },
+      "importance_rank": 62
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "Binary input"
+      },
+      "importance_rank": 63
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "UTC 5"
+      },
+      "importance_rank": 64
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "Output to 7 Segment Display"
+      },
+      "importance_rank": 65
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "The adjusted hours and minutes are converted from binary to"
+      },
+      "importance_rank": 66
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "e g"
+      },
+      "importance_rank": 67
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "74 LS 47"
+      },
+      "importance_rank": 68
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": ""
+      },
+      "importance_rank": 69
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "section_title": {
+        "en": "Each digit of the hours and minutes is displayed on the corresponding"
+      },
+      "importance_rank": 70
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "matches\nthesetalarmtime.Inahardwaredescriptionlanguage(HDL)likeVerilogorVHDL,thealarm\nlogiccomparesthecurrenttimewiththepresetalarmtimeandraisesasignalwhenthey\nmatch.\n1.ComponentsofAlarmFunctionality"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "Submission Template: Click Here To Download \n  \nStage 1: Analysis and Solutions summary (2 slide summary)  \nAssess the Impact of Social Determinants of Health (SDOH):  \nConduct a thorough analysis of"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "Click Here To Download \n  \nStage 1: Analysis and Solutions summary (2 slide summary)  \nAssess the Impact of Social Determinants of Health (SDOH):  \nConduct a thorough analysis of how social determinan"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Awards and Recognition:  \n• \nPrizes: The winning teams will receive awards, which may include cash prize and  o  \n1ST Team Prize \n– 3 Lakh INR only. o  \n2nd Team Prize – 2 Lakh INR only.  \n \no  3rd Te"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "3rd Team Prize – 1 Lakh INR only.  \n• \nInternship: Finalists of the competition will receive an opportunity to directly interview for an internship with \nProvidence Global Centre.   \n• \nCertificates:"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Providence Global Centre.   \n• \nCertificates: Participants will get a digital certificate of participation.  \nSave Important Dates and Timeline:  \n• \nRegistration Deadline: Sunday, September 29, 2024"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Save Important Dates and Timeline:  \n• \nRegistration Deadline: Sunday, September 29, 2024  \n• \nIdeathon Kick-Off: Thursday, September 12, 2024  \n• \nExecutive Submission Deadline Phase-1: Sunday, Octob"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Registration Deadline: Sunday, September 29, 2024  \n• \nIdeathon Kick-Off: Thursday, September 12, 2024  \n• \nExecutive Submission Deadline Phase-1: Sunday, October 6, 2024  \n• \nExecutive Submission Dea"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Ideathon Kick-Off: Thursday, September 12, 2024  \n• \nExecutive Submission Deadline Phase-1: Sunday, October 6, 2024  \n• \nExecutive Submission Deadline Phase-2: Sunday, November 3, 2024  \n• \nFinal Pres"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Executive Submission Deadline Phase-1: Sunday, October 6, 2024  \n• \nExecutive Submission Deadline Phase-2: Sunday, November 3, 2024  \n• \nFinal Presentations and Judging: Thursday, November 21, 2024"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Executive Submission Deadline Phase-2: Sunday, November 3, 2024  \n• \nFinal Presentations and Judging: Thursday, November 21, 2024  \n• \nAward Ceremony: Thursday, November 21, 2024  \nContact Information"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "Final Presentations and Judging: Thursday, November 21, 2024  \n• \nAward Ceremony: Thursday, November 21, 2024  \nContact Information:  \nIf you have any questions or need assistance, please contact us a"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "3  \n  \nConclusion  \nYou can drive meaningful change in public health by addressing the social determinants that lead to health \ndisparities. By developing and implementing innovative digital solutions"
+      }
+    },
+    {
+      "document": "66e9997f56efb_Providence_LEAP_Ideathon_Case_Study_Brief.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "END OF CASE STUDY -"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "Function\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesusingaclock"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 1,
+      "refined_text": {
+        "en": "DEPROJECT\nFunction\n●\nTimekeeping\n●\nStopwatch\n●\nAlarm\n●\nTimeZone\nToimplementtimekeepingforadigitalwatchinXilinx(usingVerilogorVHDL),weare\ncreatingadesignthattrackshours,minutes,andseconds.Thisinvolvesu"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "watch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges),an\noverfloworerrorflagcanbeoutput.\nF2)Stopwatch:\nToimplementastopwatchaspartofadigitalwatchinXilinx(usingeitherVer"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 2,
+      "refined_text": {
+        "en": "3.Seconds:Outputthecurrentsecond(0-59).\n4.AM/PMIndicator(am_pm):AnoutputindicatingAMorPMfordesigninga12-hourformat\nwatch.\n5.Overflow/Error:Incaseofabnormalconditions(e.g.,countersexceedingvalidranges)"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "istriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtime.\n2.\nalarm_hours:Aninputto"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "ii.\n0001=UTC+1\niii.\n1111=UTC-1(orsimilar)."
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "5.\nAlarmOutput:Anoutputthatistriggeredwhenthecurrenttimematchesthealarm\ntime(e.g.,analarmsignal).\nAlarmSetInputs:\n1.\nset_alarm:Thisinputactivatesthealarmsettingmode,allowingtheusertoadjustthe\nalarmtim"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 3,
+      "refined_text": {
+        "en": "iii.\n1111=UTC-1(orsimilar)."
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    },
+    {
+      "document": "DE PROJECT.pdf",
+      "page_number": 4,
+      "refined_text": {
+        "en": "3.\nCurrentTime(hoursandminutes):\na.\nInputfromtheinternalclockthatkeepsthebasetime(canbesettoUTCor\nlocaltime).\nOutputs:\n1.\nAdjustedTime(hoursandminutes):\n○\nTheclockwilloutputthetimeadjustedaccordingtot"
+      }
+    }
+  ]
+}

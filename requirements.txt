@@ -1,0 +1,10 @@
+pymupdf
+pdfplumber
+pytesseract
+langdetect
+sentence-transformers
+numpy
+pdf2image
+wordninja
+indic-nlp-library
+
